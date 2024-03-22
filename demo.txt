@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "65cd95c434ff9511cfb7e9f2",
+        "id": "65fd0c59e815af821dcc0974",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/5c12e099a74c3cb5/65cd95c434ff9511cfb7e9f2.json",
-        "created_at": "2024-02-15 04:40:36 UTC",
-        "processed_at": "2024-02-15 04:40:36 UTC",
+        "json_endpoint": "https://serpapi.com/searches/5c12e099a74c3cb5/65fd0c59e815af821dcc0974.json",
+        "created_at": "2024-03-22 04:43:05 UTC",
+        "processed_at": "2024-03-22 04:43:05 UTC",
         "google_maps_url": "https://www.google.com/maps/search/c%E1%BB%ADa+h%C3%A0ng/@10.762622,106.660172,3z?hl=en",
-        "raw_html_file": "https://serpapi.com/searches/5c12e099a74c3cb5/65cd95c434ff9511cfb7e9f2.html",
-        "total_time_taken": 1.06
+        "raw_html_file": "https://serpapi.com/searches/5c12e099a74c3cb5/65fd0c59e815af821dcc0974.html",
+        "total_time_taken": 4.99
     },
     "search_parameters": {
         "engine": "google_maps",
@@ -24,724 +24,793 @@
     "local_results": [
         {
             "position": 1,
-            "title": "Ngoc Loi Hoang",
-            "place_id": "ChIJ3wbEfNLzdioRkLDS6BNDf1k",
-            "data_id": "0x2a76f3d27cc406df:0x597f4313e8d2b090",
-            "data_cid": "6448946944207401104",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x2a76f3d27cc406df%3A0x597f4313e8d2b090&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x2a76f3d27cc406df%3A0x597f4313e8d2b090&engine=google_maps_photos&hl=en",
+            "title": "C\u1eeda H\u00e0ng Quakhuyenmai.vn",
+            "place_id": "ChIJHQNKZREvdTERWlaZ3PcQYDM",
+            "data_id": "0x31752f11654a031d:0x336010f7dc99565a",
+            "data_cid": "3701977550442550874",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752f11654a031d%3A0x336010f7dc99565a&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752f11654a031d%3A0x336010f7dc99565a&engine=google_maps_photos&hl=en",
             "gps_coordinates": {
-                "latitude": 43.7182412,
-                "longitude": -79.37805809999999
+                "latitude": 10.760278,
+                "longitude": 106.693333
             },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3wbEfNLzdioRkLDS6BNDf1k",
-            "provider_id": "/g/11vrjcb3z1",
-            "type": "Pine furniture shop",
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHQNKZREvdTERWlaZ3PcQYDM",
+            "provider_id": "/g/11mvvdzhd0",
+            "rating": 5,
+            "reviews": 1,
+            "type": "Gift shop",
             "types": [
-                "Pine furniture shop",
-                "Service establishment"
+                "Gift shop"
             ],
-            "phone": "(647) 539-0214",
-            "website": "https://lhstairrailing.ca/",
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNYI3hbr3uBmKPjUI0WFlBGyZamXXt4W_pBPJqM=w80-h106-k-no"
-        },
-        {
-            "position": 2,
-            "title": "Golden APL SHOP",
-            "place_id": "ChIJ5UTt9kIvK4gRcQcReFwaG1M",
-            "data_id": "0x882b2f42f6ed44e5:0x531b1a5c78110771",
-            "data_cid": "5988409113972901745",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b2f42f6ed44e5%3A0x531b1a5c78110771&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b2f42f6ed44e5%3A0x531b1a5c78110771&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.7768715,
-                "longitude": -79.4882306
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5UTt9kIvK4gRcQcReFwaG1M",
-            "provider_id": "/g/11kr7sg8y0",
-            "unclaimed_listing": true,
-            "type": "Jeans shop",
-            "types": [
-                "Jeans shop"
-            ],
-            "address": "685 Petrolia Rd, North York, ON M3J 2N6",
-            "service_options": {
-                "in_store_shopping": true
-            },
-            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MdQ-s2eee7FhaXIxr9k8PQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=288.3806&pitch=0&thumbfov=100"
-        },
-        {
-            "position": 3,
-            "title": "Maple Leaf Convenience Store",
-            "place_id": "ChIJE4Gg1TXL1IkRq09yFK6U_qY",
-            "data_id": "0x89d4cb35d5a08113:0xa6fe94ae14724fab",
-            "data_cid": "12033218729768800171",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x89d4cb35d5a08113%3A0xa6fe94ae14724fab&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x89d4cb35d5a08113%3A0xa6fe94ae14724fab&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.663888199999995,
-                "longitude": -79.37983229999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE4Gg1TXL1IkRq09yFK6U_qY",
-            "provider_id": "/g/11v42w44bh",
-            "rating": 4.7,
-            "reviews": 3,
-            "unclaimed_listing": true,
-            "type": "Convenience store",
-            "types": [
-                "Convenience store"
-            ],
-            "address": "445 Church St, Toronto, ON M4Y 2C5",
-            "open_state": "Closed \u22c5 Opens 9\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 9\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "9\u202fa.m.\u201311\u202fp.m.",
-                "thursday": "9\u202fa.m.\u201311\u202fp.m.",
-                "friday": "9\u202fa.m.\u20132\u202fa.m.",
-                "saturday": "10\u202fa.m.\u20132\u202fa.m.",
-                "sunday": "10\u202fa.m.\u201310\u202fp.m.",
-                "monday": "9\u202fa.m.\u201311\u202fp.m.",
-                "tuesday": "9\u202fa.m.\u201311\u202fp.m."
-            },
-            "service_options": {
-                "in_store_shopping": true
-            },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPtNpndhhe_-L0G2rObyJtAvbN95lsT7HAVC18Z=w80-h106-k-no"
-        },
-        {
-            "position": 4,
-            "title": "Cl\u00e9 Charmer",
-            "place_id": "ChIJRZxOFrU1K4gRyTt4mjuRSlM",
-            "data_id": "0x882b35b5164e9c45:0x534a913b9a783bc9",
-            "data_cid": "6001769138605276105",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b35b5164e9c45%3A0x534a913b9a783bc9&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b35b5164e9c45%3A0x534a913b9a783bc9&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.6647727,
-                "longitude": -79.3869867
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRZxOFrU1K4gRyTt4mjuRSlM",
-            "provider_id": "/g/11t8b39vzh",
-            "type": "Clothing store",
-            "types": [
-                "Clothing store"
-            ],
-            "address": "955 Bay St., Toronto, ON M5S 2A2",
-            "open_state": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "11\u202fa.m.\u201310\u202fp.m.",
-                "thursday": "11\u202fa.m.\u201310\u202fp.m.",
-                "friday": "11\u202fa.m.\u201310\u202fp.m.",
-                "saturday": "11\u202fa.m.\u201310\u202fp.m.",
-                "sunday": "11\u202fa.m.\u201310\u202fp.m.",
-                "monday": "11\u202fa.m.\u201310\u202fp.m.",
-                "tuesday": "11\u202fa.m.\u201310\u202fp.m."
-            },
-            "phone": "(647) 574-9702",
-            "website": "https://www.instagram.com/clecharmer/",
-            "service_options": {
-                "in_store_shopping": true
-            },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPTk7mie-jmCSQM8E-iZTqGG7PD-6TYS0sQzCQf=w92-h92-k-no"
-        },
-        {
-            "position": 5,
-            "title": "Xe Kem Ice Cream and Desserts",
-            "place_id": "ChIJP1SnTUgxK4gRHnk01UunVN4",
-            "data_id": "0x882b31484da7543f:0xde54a74bd534791e",
-            "data_cid": "16020613718605068574",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b31484da7543f%3A0xde54a74bd534791e&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b31484da7543f%3A0xde54a74bd534791e&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.75129,
-                "longitude": -79.54357999999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP1SnTUgxK4gRHnk01UunVN4",
-            "provider_id": "/g/11vdz8f1f7",
-            "rating": 4.8,
-            "reviews": 21,
-            "type": "Ice cream shop",
-            "types": [
-                "Ice cream shop"
-            ],
-            "address": "2379 Finch Ave W, North York, ON M9M 2W8",
-            "open_state": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "2\u201310\u202fp.m.",
-                "thursday": "11\u202fa.m.\u201310\u202fp.m.",
-                "friday": "11\u202fa.m.\u201310\u202fp.m.",
-                "saturday": "10\u202fa.m.\u201310\u202fp.m.",
-                "sunday": "10\u202fa.m.\u201310\u202fp.m.",
-                "monday": "11\u202fa.m.\u201310\u202fp.m.",
-                "tuesday": "11\u202fa.m.\u201310\u202fp.m."
-            },
-            "phone": "(647) 749-6969",
-            "website": "https://www.xekem.ca/",
-            "service_options": {
-                "takeout": true,
-                "delivery": true
-            },
-            "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11vdz8f1f7&g2lbs=AIQllVxalzH_QG2nctRBwFBsgQCNPCDAZ0aGf3_QyQ4uBBnIhdFZgj-Lk-MvlJFnrUWu501UrnjjWT1MaD0pfs545odc0C58ml5PuUTZNbSGFXs1O1UOqQc7mt5o7rdiGUcjN1LsViI6XlWMRN4wGjjHeLi6Ny_cIA%3D%3D&hl=en-CA&gl=ca&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=xZXNZeiwBcWo5NoP2Yqo0As&ei=xZXNZeiwBcWo5NoP2Yqo0As&fo_s=OA,SOE&opi=79508299",
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMtSC-oqFsPWH62lITNYsmwj8iUfdLi1bqy6lwe=w80-h106-k-no"
-        },
-        {
-            "position": 6,
-            "title": "Henry Pro Nails",
-            "place_id": "ChIJu10W2CYtK4gRkj7NF18mJAg",
-            "data_id": "0x882b2d26d8165dbb:0x824265f17cd3e92",
-            "data_cid": "586636041328082578",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b2d26d8165dbb%3A0x824265f17cd3e92&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b2d26d8165dbb%3A0x824265f17cd3e92&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.806652,
-                "longitude": -79.4217457
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu10W2CYtK4gRkj7NF18mJAg",
-            "provider_id": "/g/11sqx2w166",
-            "rating": 4.8,
-            "reviews": 217,
-            "type": "Health and beauty shop",
-            "types": [
-                "Health and beauty shop"
-            ],
-            "address": "7347 Yonge St, Thornhill, ON L3T 2B3",
-            "open_state": "Closed \u22c5 Opens 10\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 10\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "10\u202fa.m.\u20138\u202fp.m.",
-                "thursday": "10\u202fa.m.\u20138\u202fp.m.",
-                "friday": "10\u202fa.m.\u20138\u202fp.m.",
-                "saturday": "10\u202fa.m.\u20138\u202fp.m.",
-                "sunday": "11\u202fa.m.\u20136\u202fp.m.",
-                "monday": "10\u202fa.m.\u20138\u202fp.m.",
-                "tuesday": "10\u202fa.m.\u20138\u202fp.m."
-            },
-            "phone": "(647) 689-8188",
-            "website": "https://henrypronails.com/",
-            "service_options": {
-                "in_store_shopping": true,
-                "curbside_pickup": true,
-                "delivery": true
-            },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYahq1J4GlewcrH17qTD8bKoQNDTCYyomkuJdg=w80-h101-k-no"
-        },
-        {
-            "position": 7,
-            "title": "Lekima Badminton Store - Stringing & Equipment",
-            "place_id": "ChIJA9zDDsg1K4gRoycwevMantM",
-            "data_id": "0x882b35c80ec3dc03:0xd39e1af37a3027a3",
-            "data_cid": "15248655021352429475",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b35c80ec3dc03%3A0xd39e1af37a3027a3&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b35c80ec3dc03%3A0xd39e1af37a3027a3&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.6596549,
-                "longitude": -79.44341349999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA9zDDsg1K4gRoycwevMantM",
-            "provider_id": "/g/11y310y3gy",
-            "type": "Sporting goods store",
-            "types": [
-                "Sporting goods store"
-            ],
-            "address": "550 Lansdowne Ave, Toronto, ON M6H 3Y5",
+            "address": "15 H\u1ed3 H\u1ea3o H\u1edbn, Ph\u01b0\u1eddng C\u00f4 Giang, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vietnam",
             "open_state": "Open 24 hours",
             "hours": "Open 24 hours",
             "operating_hours": {
-                "wednesday": "Open 24 hours",
-                "thursday": "Open 24 hours",
                 "friday": "Open 24 hours",
                 "saturday": "Open 24 hours",
                 "sunday": "Open 24 hours",
                 "monday": "Open 24 hours",
-                "tuesday": "Open 24 hours"
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
             },
-            "phone": "(437) 499-9295",
-            "website": "https://forms.gle/VPhDwjP95auErAti8",
-            "service_options": {
-                "in_store_shopping": true,
-                "curbside_pickup": true,
-                "delivery": true
-            },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzGLDVTME_x8gHBICzR3WDCc1Ecd-Mr49q4hv9=w80-h106-k-no"
-        },
-        {
-            "position": 8,
-            "title": "Tile Solutions Scarborough",
-            "place_id": "ChIJuZnDRczR1IkRvLY1gTmMsi8",
-            "data_id": "0x89d4d1cc45c399b9:0x2fb28c398135b6bc",
-            "data_cid": "3436963644245915324",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x89d4d1cc45c399b9%3A0x2fb28c398135b6bc&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x89d4d1cc45c399b9%3A0x2fb28c398135b6bc&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.7524757,
-                "longitude": -79.2754135
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuZnDRczR1IkRvLY1gTmMsi8",
-            "provider_id": "/g/11hf01kb0g",
-            "rating": 4.7,
-            "reviews": 76,
-            "type": "Tile store",
-            "types": [
-                "Tile store",
-                "Flooring store"
-            ],
-            "address": "1149 Kennedy Rd, Scarborough, ON M1P 2K8",
-            "open_state": "Closed \u22c5 Opens 8\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 8\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "8\u202fa.m.\u20136\u202fp.m.",
-                "thursday": "8\u202fa.m.\u20136\u202fp.m.",
-                "friday": "8\u202fa.m.\u20136\u202fp.m.",
-                "saturday": "9\u202fa.m.\u20135\u202fp.m.",
-                "sunday": "Closed",
-                "monday": "Closed",
-                "tuesday": "8\u202fa.m.\u20136\u202fp.m."
-            },
-            "phone": "(647) 350-8800",
-            "website": "https://tilesolutions.ca/",
-            "service_options": {
-                "in_store_shopping": true,
-                "curbside_pickup": true,
-                "delivery": true
-            },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOOUgnLXhduUd5bPKE5-NGMjNd3kpalpAXHBcZK=w122-h92-k-no"
-        },
-        {
-            "position": 9,
-            "title": "KS Store",
-            "place_id": "ChIJo_hJ2D81K4gREks9R7tEHmM",
-            "data_id": "0x882b353fd849f8a3:0x631e44bb473d4b12",
-            "data_cid": "7142221630200957714",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b353fd849f8a3%3A0x631e44bb473d4b12&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b353fd849f8a3%3A0x631e44bb473d4b12&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.7182412,
-                "longitude": -79.37805809999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo_hJ2D81K4gREks9R7tEHmM",
-            "provider_id": "/g/11n1tg3v4t",
-            "rating": 5,
-            "reviews": 7,
-            "type": "Fashion accessories store",
-            "types": [
-                "Fashion accessories store",
-                "Service establishment",
-                "Shoe store",
-                "Women's clothing store"
-            ],
-            "open_state": "Closed \u22c5 Opens 9\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 9\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "9\u202fa.m.\u201310\u202fp.m.",
-                "thursday": "9\u202fa.m.\u201310\u202fp.m.",
-                "friday": "9\u202fa.m.\u201310\u202fp.m.",
-                "saturday": "9\u202fa.m.\u201310\u202fp.m.",
-                "sunday": "9\u202fa.m.\u201310\u202fp.m.",
-                "monday": "9\u202fa.m.\u201310\u202fp.m.",
-                "tuesday": "9\u202fa.m.\u201310\u202fp.m."
-            },
-            "phone": "(647) 677-3505",
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPs2YNufX3wSuRNQ1b7K6TkHy-fa9BK-YweVez9=w80-h106-k-no"
-        },
-        {
-            "position": 10,
-            "title": "Shop",
-            "place_id": "ChIJpw0RjNXb1IkRAUudTgIw1WA",
-            "data_id": "0x89d4dbd58c110da7:0x60d530024e9d4b01",
-            "data_cid": "6977535984147450625",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x89d4dbd58c110da7%3A0x60d530024e9d4b01&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x89d4dbd58c110da7%3A0x60d530024e9d4b01&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 46.423669,
-                "longitude": -129.9427086
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpw0RjNXb1IkRAUudTgIw1WA",
-            "provider_id": "/g/11n2ylbdx_",
-            "type": "Electronics store",
-            "types": [
-                "Electronics store",
-                "Service establishment"
-            ],
-            "open_state": "Open \u22c5 Closes 5\u202fa.m. Thu",
-            "hours": "Open \u22c5 Closes 5\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "8\u202fa.m.\u20135\u202fa.m.",
-                "thursday": "8\u202fa.m.\u20135\u202fa.m.",
-                "friday": "8\u202fa.m.\u20135\u202fa.m.",
-                "saturday": "8\u202fa.m.\u20135\u202fa.m.",
-                "sunday": "8\u202fa.m.\u20135\u202fa.m.",
-                "monday": "8\u202fa.m.\u20135\u202fa.m.",
-                "tuesday": "8\u202fa.m.\u20135\u202fa.m."
-            },
-            "phone": "+1 888-297-7476",
-            "website": "http://www.shop.com/"
-        },
-        {
-            "position": 11,
-            "title": "3mile Convenience Store",
-            "place_id": "ChIJHYzWggbR1IkRIQltNtf_Vts",
-            "data_id": "0x89d4d10682d68c1d:0xdb56ffd7366d0921",
-            "data_cid": "15805101242099501345",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x89d4d10682d68c1d%3A0xdb56ffd7366d0921&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x89d4d10682d68c1d%3A0xdb56ffd7366d0921&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.7738321,
-                "longitude": -79.2555289
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHYzWggbR1IkRIQltNtf_Vts",
-            "provider_id": "/g/11j7kpn8sn",
-            "rating": 4.7,
-            "reviews": 14,
-            "type": "Convenience store",
-            "types": [
-                "Convenience store"
-            ],
-            "address": "CA ON Toronto, 70 Town Centre Court unit 4, M1P 0B2",
-            "open_state": "Open \u22c5 Closes 1\u202fa.m.",
-            "hours": "Open \u22c5 Closes 1\u202fa.m.",
-            "operating_hours": {
-                "wednesday": "1\u202fp.m.\u20131\u202fa.m.",
-                "thursday": "1\u202fp.m.\u20131\u202fa.m.",
-                "friday": "1\u202fp.m.\u20131\u202fa.m.",
-                "saturday": "1\u202fp.m.\u20131\u202fa.m.",
-                "sunday": "1\u202fp.m.\u20131\u202fa.m.",
-                "monday": "1\u202fp.m.\u20131\u202fa.m.",
-                "tuesday": "1\u202fp.m.\u20131\u202fa.m."
-            },
-            "phone": "(647) 969-8033",
-            "service_options": {
-                "in_store_shopping": true
-            },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNk5xGgoO244oZMM432zgt5pUu46JZ6SJVWy4TJ=w122-h92-k-no"
-        },
-        {
-            "position": 12,
-            "title": "Scent's Story",
-            "place_id": "ChIJB0GTA8a7mwURCXTEfWlqGM4",
-            "data_id": "0x59bbbc603934107:0xce186a697dc47409",
-            "data_cid": "14850736772568347657",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x59bbbc603934107%3A0xce186a697dc47409&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x59bbbc603934107%3A0xce186a697dc47409&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.6476749,
-                "longitude": -79.42031329999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB0GTA8a7mwURCXTEfWlqGM4",
-            "provider_id": "/g/11q4dwlyyd",
-            "rating": 1,
-            "reviews": 1,
-            "unclaimed_listing": true,
-            "type": "Candle store",
-            "types": [
-                "Candle store"
-            ],
-            "address": "154 Ossington Ave, Toronto, ON M6J 2Z5",
-            "open_state": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "11\u202fa.m.\u20136\u202fp.m.",
-                "thursday": "11\u202fa.m.\u20136\u202fp.m.",
-                "friday": "11\u202fa.m.\u20136\u202fp.m.",
-                "saturday": "10\u202fa.m.\u20137\u202fp.m.",
-                "sunday": "12\u20135\u202fp.m.",
-                "monday": "11\u202fa.m.\u20136\u202fp.m.",
-                "tuesday": "11\u202fa.m.\u20136\u202fp.m."
-            },
-            "phone": "(437) 260-6046",
-            "service_options": {
-                "in_store_shopping": true
-            },
-            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OYI77z4yobd-s8vlGa5yJw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=277.9434&pitch=0&thumbfov=100"
-        },
-        {
-            "position": 13,
-            "title": "Huy To Billiards Shop in Canada",
-            "place_id": "ChIJbxHe9gKxG0IRuajpX_iqWFg",
-            "data_id": "0x421bb102f6de116f:0x5858aaf85fe9a8b9",
-            "data_cid": "6366026057025956025",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x421bb102f6de116f%3A0x5858aaf85fe9a8b9&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x421bb102f6de116f%3A0x5858aaf85fe9a8b9&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.7182412,
-                "longitude": -79.37805809999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbxHe9gKxG0IRuajpX_iqWFg",
-            "provider_id": "/g/11lcksy4hq",
-            "rating": 5,
-            "reviews": 1,
-            "type": "Billiards supply store",
-            "types": [
-                "Billiards supply store",
-                "Service establishment"
-            ],
-            "open_state": "Closed \u22c5 Opens 9\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 9\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "9\u202fa.m.\u20139\u202fp.m.",
-                "thursday": "9\u202fa.m.\u20139\u202fp.m.",
-                "friday": "9\u202fa.m.\u20139\u202fp.m.",
-                "saturday": "9\u202fa.m.\u20139\u202fp.m.",
-                "sunday": "9\u202fa.m.\u20139\u202fp.m.",
-                "monday": "9\u202fa.m.\u20139\u202fp.m.",
-                "tuesday": "9\u202fa.m.\u20139\u202fp.m."
-            },
-            "phone": "(647) 400-0198",
-            "website": "https://huytobilliards.com/",
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPC-FXI3xkrFoeW_VTTk8ZWp6lnLOHFNBpR-xYn=w80-h106-k-no"
-        },
-        {
-            "position": 14,
-            "title": "SunflowerBoutique",
-            "place_id": "ChIJnRzPSvwnK4gRcmEbZYpzBjs",
-            "data_id": "0x882b27fc4acf1c9d:0x3b06738a651b6172",
-            "data_cid": "4253213936336986482",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b27fc4acf1c9d%3A0x3b06738a651b6172&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b27fc4acf1c9d%3A0x3b06738a651b6172&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.856014599999995,
-                "longitude": -79.56196829999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnRzPSvwnK4gRcmEbZYpzBjs",
-            "provider_id": "/g/11vbr2dx52",
-            "type": "Costume store",
-            "types": [
-                "Costume store"
-            ],
-            "address": "10501 Weston Rd, Vaughan, ON L4H 4G8",
-            "open_state": "Closed \u22c5 Opens 9\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 9\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "9\u202fa.m.\u20138\u202fp.m.",
-                "thursday": "9\u202fa.m.\u20138\u202fp.m.",
-                "friday": "9\u202fa.m.\u20138\u202fp.m.",
-                "saturday": "9\u202fa.m.\u20138\u202fp.m.",
-                "sunday": "9\u202fa.m.\u20137\u202fp.m.",
-                "monday": "9\u202fa.m.\u20138\u202fp.m.",
-                "tuesday": "9\u202fa.m.\u20138\u202fp.m."
-            },
-            "phone": "(416) 854-9485",
-            "service_options": {
-                "in_store_shopping": true
-            },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNst-rHDMuiVozCQEuNtVBiYIvX1ccLp09egClT=w127-h92-k-no"
-        },
-        {
-            "position": 15,
-            "title": "Ultimate PC Studio",
-            "place_id": "ChIJCTocK83L1IkRIMpTCuW-en0",
-            "data_id": "0x89d4cbcd2b1c3a09:0x7d7abee50a53ca20",
-            "data_cid": "9041749092829743648",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x89d4cbcd2b1c3a09%3A0x7d7abee50a53ca20&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x89d4cbcd2b1c3a09%3A0x7d7abee50a53ca20&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.6598195,
-                "longitude": -79.38033779999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCTocK83L1IkRIMpTCuW-en0",
-            "provider_id": "/g/11v017k63b",
-            "rating": 5,
-            "reviews": 12,
-            "type": "Computer store",
-            "types": [
-                "Computer store"
-            ],
-            "address": "40 Gerrard St E, Toronto, ON M5B 2M2",
-            "open_state": "Closed \u22c5 Opens 12\u202fp.m. Thu",
-            "hours": "Closed \u22c5 Opens 12\u202fp.m. Thu",
-            "operating_hours": {
-                "wednesday": "12\u20138\u202fp.m.",
-                "thursday": "12\u20138\u202fp.m.",
-                "friday": "12\u20138\u202fp.m.",
-                "saturday": "Closed",
-                "sunday": "Closed",
-                "monday": "12\u20138\u202fp.m.",
-                "tuesday": "12\u20138\u202fp.m."
-            },
-            "website": "http://instagram.com/ultimatepcgta",
+            "phone": "+84 908 140 096",
+            "website": "http://www.quakhuyenmai.vn/",
             "service_options": {
                 "in_store_shopping": true,
                 "in_store_pickup": true,
                 "delivery": true
             },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhsBYcXMBFx41qcErJivdMCEFnrimTKz80CCXk=w80-h106-k-no"
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMurYqhhEvDQcfDM9126DtKDn9Uikf-nhM-IM=w163-h92-k-no"
         },
         {
-            "position": 16,
-            "title": "The Best Shop - Oriental Centre",
-            "place_id": "ChIJ0b4QznLR1IkRJSEYRhGYqWc",
-            "data_id": "0x89d4d172ce10bed1:0x67a9981146182125",
-            "data_cid": "7469668656928530725",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x89d4d172ce10bed1%3A0x67a9981146182125&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x89d4d172ce10bed1%3A0x67a9981146182125&engine=google_maps_photos&hl=en",
+            "position": 2,
+            "title": "C\u1eeda H\u00e0ng Ch",
+            "place_id": "ChIJn0WSXxsvdTERcuImMraPLtM",
+            "data_id": "0x31752f1b5f92459f:0xd32e8fb63226e272",
+            "data_cid": "15217258203619713650",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752f1b5f92459f%3A0xd32e8fb63226e272&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752f1b5f92459f%3A0xd32e8fb63226e272&engine=google_maps_photos&hl=en",
             "gps_coordinates": {
-                "latitude": 43.7883095,
-                "longitude": -79.268081
+                "latitude": 10.7586852,
+                "longitude": 106.6822742
             },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0b4QznLR1IkRJSEYRhGYqWc",
-            "provider_id": "/g/11c1r69dw6",
-            "rating": 4.8,
-            "reviews": 5,
-            "type": "Asian household goods store",
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn0WSXxsvdTERcuImMraPLtM",
+            "provider_id": "/g/11ckkx6fzc",
+            "rating": 1.8,
+            "reviews": 9,
+            "unclaimed_listing": true,
+            "type": "Lingerie store",
             "types": [
-                "Asian household goods store"
+                "Lingerie store"
             ],
-            "address": "4438 Sheppard Ave E #10, Scarborough, ON M1S 1V2",
-            "open_state": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 11\u202fa.m. Thu",
+            "address": "49 \u0110. Nguy\u1ec5n Tr\u00e3i, Ph\u01b0\u1eddng 2, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "open_state": "Open \u22c5 Closes 9\u202fPM",
+            "hours": "Open \u22c5 Closes 9\u202fPM",
             "operating_hours": {
-                "wednesday": "11\u202fa.m.\u20137\u202fp.m.",
-                "thursday": "11\u202fa.m.\u20137\u202fp.m.",
-                "friday": "11\u202fa.m.\u20137\u202fp.m.",
-                "saturday": "11\u202fa.m.\u20137\u202fp.m.",
-                "sunday": "11\u202fa.m.\u20137\u202fp.m.",
-                "monday": "11\u202fa.m.\u20137\u202fp.m.",
-                "tuesday": "11\u202fa.m.\u20137\u202fp.m."
+                "friday": "8:30\u202fAM\u20139\u202fPM",
+                "saturday": "8:30\u202fAM\u20139\u202fPM",
+                "sunday": "8:30\u202fAM\u20139\u202fPM",
+                "monday": "8:30\u202fAM\u20139\u202fPM",
+                "tuesday": "8:30\u202fAM\u20139\u202fPM",
+                "wednesday": "8:30\u202fAM\u20139\u202fPM",
+                "thursday": "8:30\u202fAM\u20139\u202fPM"
             },
-            "phone": "(416) 609-8968",
-            "website": "https://thebestshop.ca/",
+            "phone": "+84 903 310 268",
+            "website": "https://ch19000.vn/",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyZqpO2zDqnf4dThtA3S-RCEuiUm4YpCX0xad0=w80-h106-k-no"
+        },
+        {
+            "position": 3,
+            "title": "C\u1eeda h\u00e0ng Ch\u00ednh CA",
+            "place_id": "ChIJkQQdI5dJoTERzOi72tTVq3w",
+            "data_id": "0x31a14997231d0491:0x7cabd5d4dabbe8cc",
+            "data_cid": "8983508991900117196",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31a14997231d0491%3A0x7cabd5d4dabbe8cc&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31a14997231d0491%3A0x7cabd5d4dabbe8cc&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 9.1625675,
+                "longitude": 105.1426032
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkQQdI5dJoTERzOi72tTVq3w",
+            "provider_id": "/g/11g047zdwl",
+            "type": "Home improvement store",
+            "types": [
+                "Home improvement store"
+            ],
+            "address": "\u0110\u01b0\u1eddng Nguy\u1ec5n T\u1ea5t Th\u00e0nh, Khu 1, Th\u00e0nh ph\u1ed1 C\u00e0 Mau, C\u00e0 Mau 70000, Vietnam",
+            "open_state": "Open \u22c5 Closes 5\u202fPM",
+            "hours": "Open \u22c5 Closes 5\u202fPM",
+            "operating_hours": {
+                "friday": "9\u202fAM\u20135\u202fPM",
+                "saturday": "9\u202fAM\u20135\u202fPM",
+                "sunday": "9\u202fAM\u20135\u202fPM",
+                "monday": "9\u202fAM\u20135\u202fPM",
+                "tuesday": "9\u202fAM\u20135\u202fPM",
+                "wednesday": "9\u202fAM\u20135\u202fPM",
+                "thursday": "9\u202fAM\u20135\u202fPM"
+            },
+            "phone": "+84 945 396 768",
+            "website": "http://vinhtuong.com/",
+            "service_options": {
+                "in_store_shopping": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9jPa2saa5_7oWvOAjOBC75zsN5_wnt0G5cXzz=w163-h92-k-no"
+        },
+        {
+            "position": 4,
+            "title": "\u0110\u1eb9p Shop",
+            "place_id": "ChIJX4wYnaMndTERSSeTfgO7z8c",
+            "data_id": "0x317527a39d188c5f:0xc7cfbb037e932749",
+            "data_cid": "14397932157409634121",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x317527a39d188c5f%3A0xc7cfbb037e932749&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x317527a39d188c5f%3A0xc7cfbb037e932749&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.8464233,
+                "longitude": 106.76202819999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX4wYnaMndTERSSeTfgO7z8c",
+            "provider_id": "/g/1z3t9qs0t",
+            "rating": 3.7,
+            "reviews": 6,
+            "unclaimed_listing": true,
+            "type": "Fashion accessories store",
+            "types": [
+                "Fashion accessories store"
+            ],
+            "address": "RQW6+HR6, \u0110. S\u1ed1 9, B\u00ecnh Th\u1ecd, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "open_state": "Open \u22c5 Closes 10\u202fPM",
+            "hours": "Open \u22c5 Closes 10\u202fPM",
+            "operating_hours": {
+                "friday": "8:30\u202fAM\u201310\u202fPM",
+                "saturday": "9\u202fAM\u201310\u202fPM",
+                "sunday": "9\u202fAM\u201310\u202fPM",
+                "monday": "8:30\u202fAM\u201310\u202fPM",
+                "tuesday": "8:30\u202fAM\u201310\u202fPM",
+                "wednesday": "8:30\u202fAM\u201310\u202fPM",
+                "thursday": "8:30\u202fAM\u201310\u202fPM"
+            },
+            "phone": "+84 987 375 738",
+            "website": "https://trackfin.asia/4DFBZjhP",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            }
+        },
+        {
+            "position": 5,
+            "title": "C\u1eeda h\u00e0ng C\u01a1 \u0110\u1ed1c Hy V\u1ecdng",
+            "place_id": "ChIJzeREX-8udTERAEBQAVggzeI",
+            "data_id": "0x31752eef5f44e4cd:0xe2cd205801504000",
+            "data_cid": "16342754185148645376",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752eef5f44e4cd%3A0xe2cd205801504000&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752eef5f44e4cd%3A0xe2cd205801504000&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.762848,
+                "longitude": 106.66428099999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzeREX-8udTERAEBQAVggzeI",
+            "provider_id": "/g/1tjrmgx8",
+            "rating": 4.5,
+            "reviews": 55,
+            "type": "Gift shop",
+            "types": [
+                "Gift shop",
+                "Souvenir store"
+            ],
+            "address": "431 \u0110. V\u0129nh Vi\u1ec5n, Ph\u01b0\u1eddng 6, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 740500, Vietnam",
+            "open_state": "Open \u22c5 Closes 7\u202fPM",
+            "hours": "Open \u22c5 Closes 7\u202fPM",
+            "operating_hours": {
+                "friday": "8\u202fAM\u20137\u202fPM",
+                "saturday": "8\u202fAM\u20137\u202fPM",
+                "sunday": "Closed",
+                "monday": "8\u202fAM\u20137\u202fPM",
+                "tuesday": "8\u202fAM\u20137\u202fPM",
+                "wednesday": "8\u202fAM\u20137\u202fPM",
+                "thursday": "8\u202fAM\u20137\u202fPM"
+            },
+            "phone": "+84 28 3856 3060",
+            "website": "http://www.hyvonggiftshop.com/",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPdPE0FSNzfRc42pA1NXy0F9mPNg52_Sk8IEhn=w163-h92-k-no"
+        },
+        {
+            "position": 6,
+            "title": "Shop b\u00e1n h\u00e0ng n\u1ed9i \u0111\u1ecba Nh\u1eadt - Mira Chan's Merry Shop",
+            "place_id": "ChIJT5K5Oq4odTERS8mYIqvAXNg",
+            "data_id": "0x317528ae3ab9924f:0xd85cc0ab2298c94b",
+            "data_cid": "15590547851302193483",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x317528ae3ab9924f%3A0xd85cc0ab2298c94b&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x317528ae3ab9924f%3A0xd85cc0ab2298c94b&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.7958909,
+                "longitude": 106.7124599
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT5K5Oq4odTERS8mYIqvAXNg",
+            "provider_id": "/g/11fzmc08_3",
+            "rating": 4.9,
+            "reviews": 195,
+            "type": "Cosmetics store",
+            "types": [
+                "Cosmetics store"
+            ],
+            "address": "83/4 X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh, Ph\u01b0\u1eddng 21, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vietnam",
+            "open_state": "Open \u22c5 Closes 10\u202fPM",
+            "hours": "Open \u22c5 Closes 10\u202fPM",
+            "operating_hours": {
+                "friday": "8\u202fAM\u201310\u202fPM",
+                "saturday": "8\u202fAM\u201310\u202fPM",
+                "sunday": "Closed",
+                "monday": "9\u202fAM\u201311\u202fPM",
+                "tuesday": "8\u202fAM\u201310\u202fPM",
+                "wednesday": "8\u202fAM\u201310\u202fPM",
+                "thursday": "8\u202fAM\u201310\u202fPM"
+            },
+            "phone": "+84 922 961 033",
+            "website": "https://mirachan.kitchen/",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDj--v9p-E93ziwgnxTZX-kr8ZiUrZypmEW26k=w122-h92-k-no"
+        },
+        {
+            "position": 7,
+            "title": "Shop N\u1ebfn Yankee Candle : c\u1eeda h\u00e0ng n\u1ebfn th\u01a1m qu\u00e0 t\u1eb7ng cao c\u1ea5p",
+            "place_id": "ChIJT-0ZWtIvdTERnvml35tQzhw",
+            "data_id": "0x31752fd25a19ed4f:0x1cce509bdfa5f99e",
+            "data_cid": "2075685108666726814",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752fd25a19ed4f%3A0x1cce509bdfa5f99e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752fd25a19ed4f%3A0x1cce509bdfa5f99e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.7827378,
+                "longitude": 106.6886002
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT-0ZWtIvdTERnvml35tQzhw",
+            "provider_id": "/g/11l29v_4_z",
+            "rating": 5,
+            "reviews": 7,
+            "type": "Candle store",
+            "types": [
+                "Candle store"
+            ],
+            "address": "17B T\u00fa X\u01b0\u01a1ng, V\u00f5 Th\u1ecb S\u00e1u, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vietnam",
+            "open_state": "Open \u22c5 Closes 10\u202fPM",
+            "hours": "Open \u22c5 Closes 10\u202fPM",
+            "operating_hours": {
+                "friday": "9\u202fAM\u201310\u202fPM",
+                "saturday": "9\u202fAM\u201310\u202fPM",
+                "sunday": "9\u202fAM\u201310\u202fPM",
+                "monday": "9\u202fAM\u201310\u202fPM",
+                "tuesday": "9\u202fAM\u201310\u202fPM",
+                "wednesday": "9\u202fAM\u201310\u202fPM",
+                "thursday": "9\u202fAM\u201310\u202fPM"
+            },
+            "phone": "+84 886 617 886",
+            "website": "https://thegioihoahong.com/nen-thom/",
+            "service_options": {
+                "in_store_shopping": true,
+                "curbside_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP6jpViqMSWNZjbrWfr3RjQHd3UK47eWPdDIQkp=w80-h106-k-no"
+        },
+        {
+            "position": 8,
+            "title": "Shop Hero (TP H\u1ed3 Ch\u00ed Minh)",
+            "place_id": "ChIJf3zbo8MtdTERg2Ti6_I_faU",
+            "data_id": "0x31752dc3a3db7c7f:0xa57d3ff2ebe26483",
+            "data_cid": "11924757700919059587",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752dc3a3db7c7f%3A0xa57d3ff2ebe26483&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752dc3a3db7c7f%3A0xa57d3ff2ebe26483&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.844356699999999,
+                "longitude": 106.71274679999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf3zbo8MtdTERg2Ti6_I_faU",
+            "provider_id": "/g/11llhnltvc",
+            "rating": 4.7,
+            "reviews": 406,
+            "type": "Toy store",
+            "types": [
+                "Toy store"
+            ],
+            "address": "\u0110\u01b0\u1eddng S\u1ed1 37, Khu \u0111\u00f4 Th\u1ecb V\u1ea1n Ph\u00fac, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "open_state": "Open \u22c5 Closes 9\u202fPM",
+            "hours": "Open \u22c5 Closes 9\u202fPM",
+            "operating_hours": {
+                "friday": "9\u202fAM\u20139\u202fPM",
+                "saturday": "9\u202fAM\u20139\u202fPM",
+                "sunday": "9\u202fAM\u20139\u202fPM",
+                "monday": "9\u202fAM\u20139\u202fPM",
+                "tuesday": "9\u202fAM\u20139\u202fPM",
+                "wednesday": "9\u202fAM\u20139\u202fPM",
+                "thursday": "9\u202fAM\u20139\u202fPM"
+            },
+            "phone": "+84 862 853 353",
+            "website": "https://shophero.vn/",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMmzsbtO4tBUn-A0gCToc3jpj0afvCEKp3UqnSN=w122-h92-k-no"
+        },
+        {
+            "position": 9,
+            "title": "C\u1eeda h\u00e0ng s\u1eefa H\u00d9NG PH\u01af\u01a0NG",
+            "place_id": "ChIJRfHgCerZdDERbKI8urjLjbM",
+            "data_id": "0x3174d9ea09e0f145:0xb38dcbb8ba3ca26c",
+            "data_cid": "12938221298764259948",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3174d9ea09e0f145%3A0xb38dcbb8ba3ca26c&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3174d9ea09e0f145%3A0xb38dcbb8ba3ca26c&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.9392822,
+                "longitude": 106.7421299
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRfHgCerZdDERbKI8urjLjbM",
+            "provider_id": "/g/12vrh5fpy",
+            "rating": 4.4,
+            "reviews": 213,
+            "type": "Department store",
+            "types": [
+                "Department store",
+                "Dairy store",
+                "Grocery store",
+                "Variety store"
+            ],
+            "address": "75/3a \u0110T743, An Ph\u00fa, Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng, Vietnam",
+            "open_state": "Open \u22c5 Closes 9\u202fPM",
+            "hours": "Open \u22c5 Closes 9\u202fPM",
+            "operating_hours": {
+                "friday": "6:30\u202fAM\u20139\u202fPM",
+                "saturday": "6:30\u202fAM\u20139\u202fPM",
+                "sunday": "6:30\u202fAM\u201312\u202fPM",
+                "monday": "6:30\u202fAM\u20139\u202fPM",
+                "tuesday": "6:30\u202fAM\u20139\u202fPM",
+                "wednesday": "6:30\u202fAM\u20139\u202fPM",
+                "thursday": "6:30\u202fAM\u20139\u202fPM"
+            },
+            "phone": "+84 379 550 550",
+            "website": "http://facebook.com/HungPhuongMart",
+            "service_options": {
+                "in_store_shopping": true,
+                "curbside_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNTw3uqbtk_N8pPFm_vH_QnusJof92im9mzBRb4=w122-h92-k-no"
+        },
+        {
+            "position": 10,
+            "title": "Ngan Thong Craft Supply",
+            "place_id": "ChIJ30VZzkAvdTERiRoQWZQP_l0",
+            "data_id": "0x31752f40ce5945df:0x5dfe0f9459101a89",
+            "data_cid": "6772868019435608713",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752f40ce5945df%3A0x5dfe0f9459101a89&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752f40ce5945df%3A0x5dfe0f9459101a89&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.773826,
+                "longitude": 106.70012
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ30VZzkAvdTERiRoQWZQP_l0",
+            "provider_id": "/g/1thk66zd",
+            "rating": 4.3,
+            "reviews": 90,
+            "unclaimed_listing": true,
+            "type": "Handicraft",
+            "types": [
+                "Handicraft",
+                "Art supply store",
+                "Craft store",
+                "Paper store"
+            ],
+            "address": "64 \u0110. L\u00ea L\u1ee3i, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "open_state": "Open \u22c5 Closes 7\u202fPM",
+            "hours": "Open \u22c5 Closes 7\u202fPM",
+            "operating_hours": {
+                "friday": "8:30\u202fAM\u20137\u202fPM",
+                "saturday": "10\u202fAM\u20137:30\u202fPM",
+                "sunday": "Closed",
+                "monday": "8:30\u202fAM\u20137\u202fPM",
+                "tuesday": "10\u202fAM\u20137:30\u202fPM",
+                "wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "thursday": "10\u202fAM\u20137:30\u202fPM"
+            },
+            "phone": "+84 28 3825 8964",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgCL3lITyrHDe8eaDzNjXe2s-WGGBlZ29AIQHp=w80-h106-k-no"
+        },
+        {
+            "position": 11,
+            "title": "C\u1eeda H\u00e0ng H\u1eb1ng Phi",
+            "place_id": "ChIJkQdF5OYudTERd-1aMF3NNa0",
+            "data_id": "0x31752ee6e4450791:0xad35cd5d305aed77",
+            "data_cid": "12481107742454115703",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752ee6e4450791%3A0xad35cd5d305aed77&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752ee6e4450791%3A0xad35cd5d305aed77&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.765813099999999,
+                "longitude": 106.668532
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkQdF5OYudTERd-1aMF3NNa0",
+            "provider_id": "/g/11btrr23zn",
+            "rating": 2.5,
+            "reviews": 11,
+            "unclaimed_listing": true,
+            "type": "Dairy store",
+            "types": [
+                "Dairy store"
+            ],
+            "address": "395 B\u00e0 H\u1ea1t, Ph\u01b0\u1eddng 9, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "open_state": "Open \u22c5 Closes 9:30\u202fPM",
+            "hours": "Open \u22c5 Closes 9:30\u202fPM",
+            "operating_hours": {
+                "friday": "8\u202fAM\u20139:30\u202fPM",
+                "saturday": "8\u202fAM\u20139:30\u202fPM",
+                "sunday": "8\u202fAM\u20139:30\u202fPM",
+                "monday": "8\u202fAM\u20139:30\u202fPM",
+                "tuesday": "8\u202fAM\u20139:30\u202fPM",
+                "wednesday": "8\u202fAM\u20139:30\u202fPM",
+                "thursday": "8\u202fAM\u20139:30\u202fPM"
+            },
+            "phone": "+84 903 179 969",
             "service_options": {
                 "in_store_shopping": true
             },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOn5Y12uME0iEzKwARIkIZPhU9lRr1LC7zZqMhd=w122-h92-k-no"
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNOWEGAYtcZh4Uzudfu79zLQW4Q_Bp_NdviNi5g=w122-h92-k-no"
         },
         {
-            "position": 17,
-            "title": "HTC Dispensary.!",
-            "place_id": "ChIJB-BYf70lK4gRwttybTw42bA",
-            "data_id": "0x882b25bd7f58e007:0xb0d9383c6d72dbc2",
-            "data_cid": "12743278452806966210",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b25bd7f58e007%3A0xb0d9383c6d72dbc2&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b25bd7f58e007%3A0xb0d9383c6d72dbc2&engine=google_maps_photos&hl=en",
+            "position": 12,
+            "title": "Tam Nguyen Shop",
+            "place_id": "ChIJezFeQEopdTERQ0pTUrgNKcY",
+            "data_id": "0x3175294a405e317b:0xc6290db852534a43",
+            "data_cid": "14278959178861201987",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3175294a405e317b%3A0xc6290db852534a43&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3175294a405e317b%3A0xc6290db852534a43&engine=google_maps_photos&hl=en",
             "gps_coordinates": {
-                "latitude": 43.78611,
-                "longitude": -79.6501402
+                "latitude": 10.7970068,
+                "longitude": 106.6498793
             },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB-BYf70lK4gRwttybTw42bA",
-            "provider_id": "/g/11ldd9j4gq",
-            "unclaimed_listing": true,
-            "type": "Store",
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJezFeQEopdTERQ0pTUrgNKcY",
+            "provider_id": "/g/11b6t85vj9",
+            "rating": 4.3,
+            "reviews": 392,
+            "type": "Furniture store",
             "types": [
-                "Store"
+                "Furniture store",
+                "Craft store",
+                "Gift shop",
+                "Millwork shop"
             ],
-            "address": "2 Canada Company Ave, Woodbridge, ON L4H 2Y8",
+            "address": "248/33/21 Nguy\u1ec5n Th\u00e1i B\u00ecnh, Ph\u01b0\u1eddng 12, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 084700, Vietnam",
+            "open_state": "Open \u22c5 Closes 9\u202fPM",
+            "hours": "Open \u22c5 Closes 9\u202fPM",
+            "operating_hours": {
+                "friday": "8:30\u202fAM\u20139\u202fPM",
+                "saturday": "8:30\u202fAM\u20139\u202fPM",
+                "sunday": "8:30\u202fAM\u20139\u202fPM",
+                "monday": "8:30\u202fAM\u20139\u202fPM",
+                "tuesday": "8:30\u202fAM\u20139\u202fPM",
+                "wednesday": "8:30\u202fAM\u20139\u202fPM",
+                "thursday": "8:30\u202fAM\u20139\u202fPM"
+            },
+            "phone": "+84 28 3811 6552",
+            "service_options": {
+                "in_store_shopping": true,
+                "curbside_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOEFeqYm6kJd56ji4wTHkskqhEuoXnkAe0y4X-A=w122-h92-k-no"
+        },
+        {
+            "position": 13,
+            "title": "C\u1eeda H\u00e0ng G\u1ed7 X\u00e2y D\u1ef1ng Ho\u00e0ng \u0110\u1ee9c",
+            "place_id": "ChIJ3WJXhDYhdTERjmWxd9qbQDs",
+            "data_id": "0x31752136845762dd:0x3b409bda77b1658e",
+            "data_cid": "4269583809360520590",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752136845762dd%3A0x3b409bda77b1658e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752136845762dd%3A0x3b409bda77b1658e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.8067151,
+                "longitude": 106.8237843
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3WJXhDYhdTERjmWxd9qbQDs",
+            "provider_id": "/g/11cmcxbvp0",
+            "rating": 4.2,
+            "reviews": 5,
+            "unclaimed_listing": true,
+            "type": "African goods store",
+            "types": [
+                "African goods store"
+            ],
+            "address": "1527 \u0110. Nguy\u1ec5n Duy Trinh, P, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
             "open_state": "Open 24 hours",
             "hours": "Open 24 hours",
             "operating_hours": {
-                "wednesday": "Open 24 hours",
-                "thursday": "Open 24 hours",
                 "friday": "Open 24 hours",
                 "saturday": "Open 24 hours",
                 "sunday": "Open 24 hours",
                 "monday": "Open 24 hours",
-                "tuesday": "Open 24 hours"
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
             },
-            "phone": "(581) 297-1134"
+            "phone": "+84 967 641 789",
+            "website": "http://baotricongtrinh.net/",
+            "service_options": {
+                "in_store_shopping": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-nF2eRf2IbXER_PBEBev64M4CfUi8pzSuuHc_=w163-h92-k-no"
+        },
+        {
+            "position": 14,
+            "title": "Funcam store - C\u1eeda h\u00e0ng Gopro / Ph\u1ee5 ki\u1ec7n m\u00e1y \u1ea3nh",
+            "place_id": "ChIJ-4_vuZMvdTERxIe_Xyn0nkU",
+            "data_id": "0x31752f93b9ef8ffb:0x459ef4295fbf87c4",
+            "data_cid": "5016715493474535364",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752f93b9ef8ffb%3A0x459ef4295fbf87c4&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752f93b9ef8ffb%3A0x459ef4295fbf87c4&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.765559399999999,
+                "longitude": 106.68309649999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-4_vuZMvdTERxIe_Xyn0nkU",
+            "provider_id": "/g/11fjz92_90",
+            "rating": 4.9,
+            "reviews": 14,
+            "type": "Photo shop",
+            "types": [
+                "Photo shop"
+            ],
+            "address": "59/10B \u0110. Ph\u1ea1m Vi\u1ebft Ch\u00e1nh, Ph\u01b0\u1eddng Nguy\u1ec5n C\u01b0 Trinh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "open_state": "Open \u22c5 Closes 7\u202fPM",
+            "hours": "Open \u22c5 Closes 7\u202fPM",
+            "operating_hours": {
+                "friday": "10\u202fAM\u20137\u202fPM",
+                "saturday": "10\u202fAM\u20137\u202fPM",
+                "sunday": "Closed",
+                "monday": "10\u202fAM\u20137\u202fPM",
+                "tuesday": "10\u202fAM\u20137\u202fPM",
+                "wednesday": "10\u202fAM\u20137\u202fPM",
+                "thursday": "10\u202fAM\u20137\u202fPM"
+            },
+            "phone": "+84 369 119 988",
+            "website": "http://www.funcamstore.com/",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNd_uC6s4ry7C-TGu16xbbvhqcBhgLP0fiB8jwr=w122-h92-k-no"
+        },
+        {
+            "position": 15,
+            "title": "c\u1eeda h\u00e0ng T\u00f9ng Ng\u0169 Kim",
+            "place_id": "ChIJs0SmOPMudTERcd_j2anrppg",
+            "data_id": "0x31752ef338a644b3:0x98a6eba9d9e3df71",
+            "data_cid": "10999738254636605297",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752ef338a644b3%3A0x98a6eba9d9e3df71&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752ef338a644b3%3A0x98a6eba9d9e3df71&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.754629999999999,
+                "longitude": 106.6532287
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs0SmOPMudTERcd_j2anrppg",
+            "provider_id": "/g/1tg6mmk7",
+            "rating": 4.3,
+            "reviews": 17,
+            "type": "Store",
+            "types": [
+                "Store",
+                "Machine shop"
+            ],
+            "address": "48 t\u1ea1 uy\u00ean, 15 ward, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vietnam",
+            "open_state": "Open \u22c5 Closes 5:30\u202fPM",
+            "hours": "Open \u22c5 Closes 5:30\u202fPM",
+            "operating_hours": {
+                "friday": "7:30\u202fAM\u20135:30\u202fPM",
+                "saturday": "7:30\u202fAM\u20135:30\u202fPM",
+                "sunday": "Closed",
+                "monday": "7:30\u202fAM\u20135:30\u202fPM",
+                "tuesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "thursday": "7:30\u202fAM\u20135:30\u202fPM"
+            },
+            "phone": "+84 945 717 722",
+            "website": "http://www.tnktools.com/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3bU9bPxNqjO0odHdra87IK_Fp4rXdZpdEhOWO=w122-h92-k-no"
+        },
+        {
+            "position": 16,
+            "title": "\u0110\u1ed3 si C68 (c\u1eeda h\u00e0ng 2)",
+            "place_id": "ChIJb8n0dY0vdTERtvraPyaknL0",
+            "data_id": "0x31752f8d75f4c96f:0xbd9ca4263fdafab6",
+            "data_cid": "13662975853722270390",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752f8d75f4c96f%3A0xbd9ca4263fdafab6&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752f8d75f4c96f%3A0xbd9ca4263fdafab6&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.7433522,
+                "longitude": 106.6961149
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb8n0dY0vdTERtvraPyaknL0",
+            "provider_id": "/g/11stdtcwwx",
+            "rating": 4.5,
+            "reviews": 14,
+            "unclaimed_listing": true,
+            "type": "Second hand store",
+            "types": [
+                "Second hand store"
+            ],
+            "address": "21 Ho\u00e0ng Tr\u1ecdng M\u1eadu, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "open_state": "Open now",
+            "service_options": {
+                "in_store_shopping": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMKt3Iud14_OxIUyjljChbOV-sWJFIrIcvI3H9c=w80-h106-k-no"
+        },
+        {
+            "position": 17,
+            "title": "C\u1eeda h\u00e0ng linh ki\u1ec7n \u0111i\u1ec7n t\u1eed HCM Caka",
+            "place_id": "ChIJz_onJ0kpdTER0r-7VhTtqKc",
+            "data_id": "0x317529492727facf:0xa7a8ed1456bbbfd2",
+            "data_cid": "12081166672031629266",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x317529492727facf%3A0xa7a8ed1456bbbfd2&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x317529492727facf%3A0xa7a8ed1456bbbfd2&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.7714584,
+                "longitude": 106.6553584
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz_onJ0kpdTER0r-7VhTtqKc",
+            "provider_id": "/g/11h580j8z1",
+            "rating": 4.2,
+            "reviews": 38,
+            "type": "Electronics store",
+            "types": [
+                "Electronics store"
+            ],
+            "address": "40/12 \u0110. L\u1eef Gia, Ph\u01b0\u1eddng 15, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vietnam",
+            "open_state": "Open \u22c5 Closes 5:30\u202fPM",
+            "hours": "Open \u22c5 Closes 5:30\u202fPM",
+            "operating_hours": {
+                "friday": "8\u202fAM\u20135:30\u202fPM",
+                "saturday": "8\u202fAM\u20135:30\u202fPM",
+                "sunday": "8:30\u202fAM\u201312\u202fPM",
+                "monday": "8\u202fAM\u20135:30\u202fPM",
+                "tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "thursday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "phone": "+84 898 404 333",
+            "website": "http://linhkiendientutphcm.com/",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO97J-r0ybeDbcuBQ6Oy0SmHQ4FbzEmmiFn4Edf=w80-h142-k-no"
         },
         {
             "position": 18,
-            "title": "HTC Dispensary",
-            "place_id": "ChIJpeczkZEpK4gRQKQTf2qYCtM",
-            "data_id": "0x882b29919133e7a5:0xd30a986a7f13a440",
-            "data_cid": "15207134674935850048",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b29919133e7a5%3A0xd30a986a7f13a440&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b29919133e7a5%3A0xd30a986a7f13a440&engine=google_maps_photos&hl=en",
+            "title": "Hang Store - The Gift From Nature",
+            "place_id": "ChIJzWeLjckvdTERggfye0oxX-A",
+            "data_id": "0x31752fc98d8b67cd:0xe05f314a7bf20782",
+            "data_cid": "16167695383260170114",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752fc98d8b67cd%3A0xe05f314a7bf20782&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752fc98d8b67cd%3A0xe05f314a7bf20782&engine=google_maps_photos&hl=en",
             "gps_coordinates": {
-                "latitude": 43.8451599,
-                "longitude": -79.5527925
+                "latitude": 10.7729577,
+                "longitude": 106.68815649999999
             },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpeczkZEpK4gRQKQTf2qYCtM",
-            "provider_id": "/g/11vqlb4hnb",
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzWeLjckvdTERggfye0oxX-A",
+            "provider_id": "/g/11n323nnmh",
+            "rating": 5,
+            "reviews": 5,
+            "type": "Gift shop",
+            "types": [
+                "Gift shop"
+            ],
+            "address": "306/5-7 \u0110. Nguy\u1ec5n Th\u1ecb Minh Khai, Ph\u01b0\u1eddng 5, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72400, Vietnam",
+            "open_state": "Open \u22c5 Closes 8\u202fPM",
+            "hours": "Open \u22c5 Closes 8\u202fPM",
+            "operating_hours": {
+                "friday": "9\u202fAM\u20138\u202fPM",
+                "saturday": "9\u202fAM\u20138\u202fPM",
+                "sunday": "Closed",
+                "monday": "9\u202fAM\u20138\u202fPM",
+                "tuesday": "9\u202fAM\u20138\u202fPM",
+                "wednesday": "9\u202fAM\u20138\u202fPM",
+                "thursday": "9\u202fAM\u20138\u202fPM"
+            },
+            "phone": "+84 977 205 360",
+            "website": "http://www.hangstore.net/",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbfxgAju0xR6YEmh6QAOC_bME_ObOJ-ocFEfaJ=w80-h106-k-no"
+        },
+        {
+            "position": 19,
+            "title": "\u0110\u1ed3 si C68(c\u1eeda h\u00e0ng 1)",
+            "place_id": "ChIJ1RcGlGwvdTERD0myc-k5b30",
+            "data_id": "0x31752f6c940617d5:0x7d6f39e973b2490f",
+            "data_cid": "9038506651987101967",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x31752f6c940617d5%3A0x7d6f39e973b2490f&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x31752f6c940617d5%3A0x7d6f39e973b2490f&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 10.7448971,
+                "longitude": 106.7002497
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1RcGlGwvdTERD0myc-k5b30",
+            "provider_id": "/g/11t_jqc9xr",
+            "rating": 4.1,
+            "reviews": 59,
             "unclaimed_listing": true,
             "type": "Store",
             "types": [
                 "Store"
             ],
-            "address": "Vaughan, ON L4H 2Y8",
-            "phone": "(343) 437-7481",
-            "website": "https://glossydispensary.com/"
-        },
-        {
-            "position": 19,
-            "title": "Thc Dispensary",
-            "place_id": "ChIJyY3mhB8vK4gRiUxB4LzJNA4",
-            "data_id": "0x882b2f1f84e68dc9:0xe34c9bce0414c89",
-            "data_cid": "1023664828373355657",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x882b2f1f84e68dc9%3A0xe34c9bce0414c89&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x882b2f1f84e68dc9%3A0xe34c9bce0414c89&engine=google_maps_photos&hl=en",
-            "gps_coordinates": {
-                "latitude": 43.7882538,
-                "longitude": -79.54516269999999
-            },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyY3mhB8vK4gRiUxB4LzJNA4",
-            "provider_id": "/g/11t53s3tqp",
-            "rating": 3.9,
-            "reviews": 105,
-            "type": "Cannabis store",
-            "types": [
-                "Cannabis store"
-            ],
-            "address": "16 Famous Ave, Woodbridge, ON L4L 9M3",
-            "open_state": "Closed \u22c5 Opens 8\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 8\u202fa.m. Thu",
+            "address": "PPW2+242, B23, \u0110. D4, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "open_state": "Open \u22c5 Closes 10\u202fPM",
+            "hours": "Open \u22c5 Closes 10\u202fPM",
             "operating_hours": {
-                "wednesday": "8\u202fa.m.\u201311\u202fp.m.",
-                "thursday": "8\u202fa.m.\u201311\u202fp.m.",
-                "friday": "8\u202fa.m.\u201311\u202fp.m.",
-                "saturday": "8\u202fa.m.\u20138\u202fp.m.",
-                "sunday": "8\u202fa.m.\u201311\u202fp.m.",
-                "monday": "8\u202fa.m.\u201311\u202fp.m.",
-                "tuesday": "8\u202fa.m.\u20138\u202fp.m."
+                "friday": "8\u202fAM\u201310\u202fPM",
+                "saturday": "8\u202fAM\u201310\u202fPM",
+                "sunday": "8\u202fAM\u201310\u202fPM",
+                "monday": "8\u202fAM\u201310\u202fPM",
+                "tuesday": "8\u202fAM\u201310\u202fPM",
+                "wednesday": "8\u202fAM\u201310\u202fPM",
+                "thursday": "8\u202fAM\u201310\u202fPM"
             },
-            "phone": "(647) 465-2533",
-            "website": "http://thcdispensary.net/",
+            "phone": "+84 938 223 722",
             "service_options": {
-                "curbside_pickup": true,
-                "delivery": true,
-                "in_store_shopping": false
+                "in_store_shopping": true,
+                "in_store_pickup": true
             },
-            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHFm6BXVP1F8GbzdBImTen_zZKNRsTWKc00uuq=w163-h92-k-no"
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCodg6F9jWDbUu9Z7vqK6xbNJUujE-0GReQsJt=w122-h92-k-no"
         },
         {
             "position": 20,
-            "title": "\u5e78\u798f\u5c0f\u5e97\u8c46\u5236\u54c1\u4e13\u5356",
-            "place_id": "ChIJDVF_BwbR1IkRrosLjKKNob8",
-            "data_id": "0x89d4d106077f510d:0xbfa18da28c0b8bae",
-            "data_cid": "13808473661768436654",
-            "reviews_link": "https://serpapi.com/search.json?data_id=0x89d4d106077f510d%3A0xbfa18da28c0b8bae&engine=google_maps_reviews&hl=en",
-            "photos_link": "https://serpapi.com/search.json?data_id=0x89d4d106077f510d%3A0xbfa18da28c0b8bae&engine=google_maps_photos&hl=en",
+            "title": "C\u1eeda h\u00e0ng V\u1ea1n L\u1ee3i",
+            "place_id": "ChIJZ4vSpZPYdDERvpMV5-VO3xM",
+            "data_id": "0x3174d893a5d28b67:0x13df4ee5e71593be",
+            "data_cid": "1431949955858535358",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3174d893a5d28b67%3A0x13df4ee5e71593be&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3174d893a5d28b67%3A0x13df4ee5e71593be&engine=google_maps_photos&hl=en",
             "gps_coordinates": {
-                "latitude": 43.786429999999996,
-                "longitude": -79.27552
+                "latitude": 10.890408599999999,
+                "longitude": 106.7845779
             },
-            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDVF_BwbR1IkRrosLjKKNob8",
-            "provider_id": "/g/11tb5tw6ch",
-            "rating": 1,
-            "reviews": 1,
-            "type": "Dessert shop",
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ4vSpZPYdDERvpMV5-VO3xM",
+            "provider_id": "/g/11bzzrfbh6",
+            "rating": 5,
+            "reviews": 2,
+            "unclaimed_listing": true,
+            "type": "Home goods store",
             "types": [
-                "Dessert shop"
+                "Home goods store"
             ],
-            "address": "5 Glen Watford Dr, Scarborough, ON M1S 2B7",
-            "open_state": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "hours": "Closed \u22c5 Opens 11\u202fa.m. Thu",
-            "operating_hours": {
-                "wednesday": "11\u202fa.m.\u20136\u202fp.m.",
-                "thursday": "11\u202fa.m.\u20136\u202fp.m.",
-                "friday": "11\u202fa.m.\u20136\u202fp.m.",
-                "saturday": "Closed",
-                "sunday": "Closed",
-                "monday": "11\u202fa.m.\u20136\u202fp.m.",
-                "tuesday": "11\u202fa.m.\u20136\u202fp.m."
-            },
-            "phone": "(416) 902-9099",
-            "website": "https://happydodo.ca/",
+            "address": "3 Qu\u1ed1c l\u1ed9 1K, \u0110\u00f4ng Ho\u00e0, D\u0129 An, B\u00ecnh D\u01b0\u01a1ng, Vietnam",
+            "phone": "+84 274 3773 548",
+            "website": "https://trackfin.asia/4DFBZjhP",
             "service_options": {
-                "delivery": true
+                "in_store_shopping": true
             },
-            "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11tb5tw6ch&g2lbs=AIQllVy0gBTAOw3nWqrNDouLAcljEouC-CgTE2vxoNfwla2DveT4aaGwKKQz_35Az85AtxggXiKG2rcsOY8NJfskc2T5820uvMhqfm_FwhjPvfXZ2DClZ5128M7vWiDIdKmbSPUFSGsbAuEIJs5an_dQAsWq5xPKWw%3D%3D&hl=en-CA&gl=ca&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=xZXNZeiwBcWo5NoP2Yqo0As&ei=xZXNZeiwBcWo5NoP2Yqo0As&fo_s=OA,SOE&opi=79508299",
-            "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLvRURTthZ94D8cSR-VMsy50TS11YAHU2QM8aN9TuwavdeOnpv7czo_E13FKJnFOG5xnJn6TfgOKwnoR7GKI9Zju8FDfaoSbu6N4ZTt1IGc77lRXOefLsP1z2grtGPQqRvgULxObQnS0J_wM_3y6jjUqltWdFucWjtlhO5jyeGUJxQIm4lymmaCFQ=w80-h106-k-no"
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMD5bhuFAjzFBct0APmupt_CmnZNhL5SE-x9ufi=w80-h106-k-no"
         }
     ],
     "serpapi_pagination": {

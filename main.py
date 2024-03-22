@@ -9,33 +9,31 @@ load_dotenv()
 api_key = os.getenv('SERPAPI_KEY')
 client = serpapi.Client(api_key=api_key)
 
-search = 'cửa hàng'
+search = 'sắt'
 
-result = client.search({
+results = client.search({
     'engine': 'google_maps',
     'type': 'search',
     'q': search,
     'll': '@10.762622,106.660172,3z',
 })
 
-print(result) #python main.py
+local_results = results['local_results']
 
-output_file = 'demo.txt'
-with open(output_file, 'w', encoding='utf-8') as file:
-    file.write(str(result))
+print(results) #python main.py
 
-print(f"Kết quả đã được lưu vào tệp tin: {output_file}")
-
-# output_file_csv = 'demo.csv'
-# with open(output_file_csv, 'w', newline='', encoding='utf-8') as csv_file:
-#     fieldnames = ['Title', 'Address', 'Phone']
-#     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-#     writer.writeheader()
+# output_file = 'demo.txt'
+# with open(output_file, 'w', encoding='utf-8') as file:
+#     file.write(str(results))
 #
-#     for place in result.get('places', []):
-#         title = place.get('title', '')
-#         address = place.get('address', '')
-#         phone = place.get('phone', '')
-#         writer.writerow({'Title': title, 'Address': address, 'Phone': phone})
-#
-# print(f"Thông tin đã được xuất vào tệp tin CSV: {output_file_csv}")
+# print(f'Kết quả đã được lưu vào tệp tin: {output_file}')
+
+with open('output.csv', 'w', encoding='utf-8', newline='') as csv_file:
+    csv_writer = csv.writer(csv_file)
+
+    csv_writer.writerow(["Title", "Address", "Phone"])
+
+    for result in local_results:
+        csv_writer.writerow([result["title"], result["address"] if "address" in result else "", result["phone"] if "phone" in result else ""])
+
+print('Done')
