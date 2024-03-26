@@ -12,8 +12,8 @@ load_dotenv()
 api_key = os.getenv('SERPAPI_KEY')
 client = serpapi.Client(api_key=api_key)
 
-search = 'thép' #tìm kiếm
-start = 40
+search = 'shop' #tìm kiếm
+start = 0
 
 results = client.search({
     'engine': 'google_maps',
