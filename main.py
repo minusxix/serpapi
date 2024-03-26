@@ -2,6 +2,7 @@ import serpapi
 import os
 import csv
 import subprocess
+import pandas as pd
 
 from dotenv import load_dotenv
 from unidecode import unidecode
@@ -11,8 +12,8 @@ load_dotenv()
 api_key = os.getenv('SERPAPI_KEY')
 client = serpapi.Client(api_key=api_key)
 
-search = 'cửa hàng' #tìm kiếm
-start = 0
+search = 'thép' #tìm kiếm
+start = 40
 
 results = client.search({
     'engine': 'google_maps',
@@ -46,9 +47,11 @@ with open(output_file, 'w', encoding='utf-8', newline='') as csv_file:
 
 print('Xuất ra file thành công!')
 
-csv_file_path = f'{search}_{start}.csv'
+file_path = f'{search}_{start}.xlsx'
+df = pd.read_csv(output_file)
+df.to_excel(file_path, index=None, header=True)
 try:
-    os.startfile(csv_file_path)
+    os.startfile(file_path)
 except AttributeError:
     import subprocess
-    subprocess.call(['xdg-open', csv_file_path])
+    subprocess.call(['xdg-open', file_path])
